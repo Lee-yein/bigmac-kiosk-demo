@@ -1,6 +1,6 @@
-st.write("LEE YEIN 21900537")
 import streamlit as st
 
+st.write("LEE YEIN 21900537")
 st.title("Order")
 
 st.image("menu.png", width=300)
