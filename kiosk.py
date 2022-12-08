@@ -1,3 +1,4 @@
+st.write("LEE YEIN 21900537")
 import streamlit as st
 
 st.title("Order")
@@ -49,4 +50,3 @@ with sec_b_col3:
 st.button("Place Order")
 
 st.markdown("*Copyright 2022 Jaeyoung Chun | School of Applied Artificial Intelligence | Handong Global University*")
-st.header("LEE YEIN 21900537")
